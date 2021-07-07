@@ -1,4 +1,4 @@
-# uninet-java-project
+# Uninet-Intranet Java-project
 Intranet is a general system created for teachers and
 students. Students can register for a course, use course files,
 track their attendance, see grades, schedule, and exam
